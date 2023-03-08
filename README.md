@@ -56,28 +56,10 @@
 ### Databases & DB Management Tools:
 [![My Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)  
   
-
-## 📈 My GitHub Stats and Activity
-
-### 💻 Profile Stats
-
-
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=mahmoudd1&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudd1&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-</p>
-  
-### 🔥 Streak Stats
-<p align="center">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=mahmoudd1&theme=darcula&hide_border=true&background=FFFFFF00">
-</p>
-  
-### 📊 Contribution Stats
-
-<p align="center">
-  <img src ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoudd1&theme=darcula&hide_border=true">
-</p>
-  
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+-------------------  
   
 ![Leetcode Stats](https://leetcard.jacoblin.cool/mahmoudd?ext=heatmap)
+  
+  
+  
+
