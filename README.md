@@ -1,7 +1,7 @@
 # <h1 align="center"> <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"> &nbsp; Hi 👋, I'm Mahmoud&nbsp;
   
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  width="1080px">
-  
+  <h1 align="center"><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"  width="900px height=800">
+
 
 -------------------
 
