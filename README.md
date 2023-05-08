@@ -46,7 +46,9 @@
 [![My Tools](https://skillicons.dev/icons?i=git,postman)](https://skillicons.dev)                                                        
   
 ### Services & Frameworks:
-[![My Services & Frameworks](https://skillicons.dev/icons?i=Spring,flutter,react)](https://skillicons.dev)
+[![My Services & Frameworks](https://skillicons.dev/icons?i=java,spring,vue)](https://skillicons.dev)
+
+ 
 <!-- add chartJS-->
 
 
