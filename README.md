@@ -39,7 +39,8 @@
 [![My Programming Languages](https://skillicons.dev/icons?i=java,py,javascript,c,cpp)](https://skillicons.dev)
    
 ### Frontend development:
-[![My Frontend DEV](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ### Misc tools:
 [![My Tools](https://skillicons.dev/icons?i=git,postman)](https://skillicons.dev)                                                        
